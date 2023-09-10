@@ -1,4 +1,4 @@
-<img src="header.png" width=75% title="kendramatics header">
+<img src="header.png" width=80% title="kendramatics header">
 
 ## Hi there!
 * My name is Kendra (she/her), and I'm from Nashville, Tennessee.
