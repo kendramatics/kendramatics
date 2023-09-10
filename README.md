@@ -8,6 +8,28 @@
 * Some of my other interests and hobbies are video games, art, comics, videography, and cats.
 
 <hr>
+Languages and Tools:
+<br><br>
+<p float="left">
+  <img src="images/html.svg" width=3% title="html logo">&nbsp;
+  <img src="images/css.svg" width=3% title="css logo">&nbsp;
+  <img src="images/js.svg" width=3% title="javascript logo">&nbsp;
+  <img src="images/node.svg" width=3% title="node logo">&nbsp;
+  <img src="images/react.svg" width=3% title="react logo">&nbsp;
+  <img src="images/python.svg" width=3% title="python logo">&nbsp;
+  <img src="images/java.svg" width=3% title="java logo">&nbsp;
+  <img src="images/cplusplus.svg" width=3% title="c++ logo">&nbsp;
+  <img src="images/rust.svg" width=3% title="rust logo">&nbsp;
+  <img src="images/vscode.svg" width=3% title="vs code logo">&nbsp;
+  <img src="images/docker.svg" width=3% title="docker logo">&nbsp;
+  <img src="images/unity.svg" width=3% title="unity logo">&nbsp;
+  <img src="images/adobecc.svg" width=3% title="adobe creative cloud logo">&nbsp;
+  <img src="images/figma.svg" width=3% title="figma logo">&nbsp;
+</p>
+
+<hr>
+Contact Me:
+<br><br>
 <a href="https://discord.com/users/320397901841039372"><img src="images/discord_color.svg" alt="discord link" width=5%></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.instagram.com/kendramatics/"><img src="images/instagram_color.svg" alt="instagram link" width=5%></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/kendra-marable/"><img src="images/linkedin_color.svg" alt="linkedin link" width=5%></a>
