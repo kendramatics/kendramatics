@@ -7,10 +7,7 @@
 * I love to code! My particular interests are web dev, game dev, and artificial intelligence/machine learning.
 * Some of my other interests and hobbies are video games, art, comics, videography, and cats.
 
-<!--
-discord: https://discord.com/users/320397901841039372
-facebook: https://www.facebook.com/profile.php?id=100010337412535
-instagram: https://www.instagram.com/kendramatics/
-linkedin: https://www.linkedin.com/in/kendra-marable/
-personal website: tba
--->
+<hr>
+<a href="https://discord.com/users/320397901841039372"><img src="discord_color.svg" alt="discord link" width=5%></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.instagram.com/kendramatics/"><img src="instagram_color.svg" alt="instagram link" width=5%></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/kendra-marable/"><img src="linkedin_color.svg" alt="linkedin link" width=5%></a>
