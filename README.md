@@ -1,15 +1,17 @@
 <img src="header.png" width=85% title="kendramatics header">
 
-## Hi there!
-* My name is Kendra (she/her), and I'm from Nashville, Tennessee.
-* I'm a recent graduate of Lehigh University's College of Engineering with a B.S. in Computer Science.
-* I have a passion for development and design, and I'm looking for opportunities to further my expertise!
-* I love to code! My particular interests are web dev, game dev, and artificial intelligence/machine learning.
-* Some of my other interests and hobbies are video games, art, comics, videography, and cats.
+<h2>Hi there!</h2>
+<ul>
+  <li>My name is Kendra (she/her), and I'm from Nashville, Tennessee.</li>
+  <li>I'm a recent graduate of Lehigh University's College of Engineering with a B.S. in Computer Science.</li>
+  <li>I have a passion for development and design, and I'm looking for opportunities to further my expertise!</li>
+  <li>I love to code! My particular interests are web dev, game dev, and artificial intelligence/machine learning.</li>
+  <li>Some of my other interests and hobbies are video games, art, comics, videography, and cats.</li>
+</ul>
 
+<br>
 <hr>
-Languages and Tools:
-<br><br>
+<h3>Languages and Tools:</h3>
 <p float="left">
   <img src="images/html.svg" width=30px title="html logo">&nbsp;
   <img src="images/css.svg" width=30px title="css logo">&nbsp;
@@ -28,8 +30,7 @@ Languages and Tools:
 </p>
 
 <hr>
-Contact:
-<br><br>
+<h3>Contact:</h3>
 <a href="https://discord.com/users/320397901841039372"><img src="images/discord_color.svg" alt="discord link" width=50px></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.instagram.com/kendramatics/"><img src="images/instagram_color.svg" alt="instagram link" width=50px></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/kendra-marable/"><img src="images/linkedin_color.svg" alt="linkedin link" width=50px></a>
