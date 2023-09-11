@@ -18,8 +18,8 @@ Languages and Tools:
   <img src="images/react.svg" width=30px title="react logo">&nbsp;
   <img src="images/python.svg" width=35px title="python logo">&nbsp;
   <img src="images/java.svg" width=30px title="java logo">&nbsp;
-  <img src="images/cplusplus.svg" width=30px title="c++ logo">&nbsp;
-  <img src="images/rust.svg" width=40px title="rust logo">&nbsp;
+  <img src="images/cplusplus.svg" width=28px title="c++ logo">&nbsp;
+  <img src="images/rust.svg" width=30px title="rust logo">&nbsp;
   <img src="images/vscode.svg" width=30px title="vs code logo">&nbsp;
   <img src="images/docker.svg" width=30px title="docker logo">&nbsp;
   <img src="images/unity.svg" width=25px title="unity logo">&nbsp;
